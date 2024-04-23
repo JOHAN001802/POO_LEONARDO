@@ -1,4 +1,4 @@
-package taller3;
+package taller1;
 
 public class GradeBook {
 
@@ -6,12 +6,6 @@ public class GradeBook {
 
     public GradeBook() {
     }
-    public static long promEstudiante(long a, long b, long c, long d, long e){
-        long prom = (a+b+c+d+e)/5;
-
-        return prom;
-    };
-
 
     public GradeBook(String cs102DataStructuresInJava) {
     }
